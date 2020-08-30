@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+// @import '../node_modules/bootstrap/scss/_tooltip.scss'
+@import "../node_modules/bootstrap/scss/_functions";
+@import "../node_modules/bootstrap/scss/_variables";
+@import "../node_modules/bootstrap/scss/_mixins";
+@import "../node_modules/bootstrap/scss/_grid";
+@import "../node_modules/bootstrap/scss/_tooltip";
+@import "../node_modules/bootstrap/scss/_buttons";
+
+
+@import "~bootstrap/scss/bootstrap.scss";
+
+
+body {
+    height: 110vh;
+}
